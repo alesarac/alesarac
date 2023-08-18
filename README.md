@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👉 About Me
 Mi chiamo Alessandro Saracco, ho 26 anni. <br><br>▸ Ho terminato il mio percorso triennale all'Università degli Studi di Torino presso la facoltà di Informatica e sono in via di specializzarmi nel percorso di Intelligenza Artificiale.<br><br>▸ Al contempo lavoro full-time come sistemista e consulente informatico, per conto di PIC - Servizi per l'informatica, presso Intesa Sanpaolo.
 
 
