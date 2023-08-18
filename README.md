@@ -12,7 +12,7 @@ Mi chiamo **Alessandro Saracco**, ho **26 anni** e vivo a **Torino**
 
 - 📧: alessandro.saracco@yahoo.it
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alessandrosaraccoitconsultant/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrosaraccoitconsultant/) 
 
 <br/>
 
