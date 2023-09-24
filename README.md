@@ -1,6 +1,6 @@
 # 👉 About Me
 
-Mi chiamo **Alessandro Saracco**, ho **26 anni** e vivo a **Torino**
+Mi chiamo **Alessandro Saracco**, ho **27 anni** e vivo a **Torino**
 
 - Ho completato il mio percorso triennale presso l'**Università degli Studi di Torino** nella facoltà di **Informatica** e attualmente sto concludendo la specializzazione in **Intelligenza Artificiale**.
 
