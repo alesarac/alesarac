@@ -2,7 +2,7 @@
 
 Mi chiamo **Alessandro Saracco**, ho **27 anni** e vivo a **Torino**
 
-- Ho completato il mio percorso triennale presso l'**Università degli Studi di Torino** e proseguito con la specializzazione in **Intelligenza Artificiale** presso la facoltà di **Informatica**
+- Ho completato il mio percorso di studi triennale presso la facoltà di informatica dell'**Università degli Studi di Torino** e proseguito nella medesima, con la specializzazione in **Intelligenza Artificiale** 
 
 - Nel frattempo, lavoro a tempo pieno come **sistemista** e **consulente informatico** presso **PIC - Servizi per l'informatica**, per **Intesa Sanpaolo**.
 
