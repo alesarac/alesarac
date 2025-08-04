@@ -1,10 +1,10 @@
 # 👉 About Me
 
-Mi chiamo **Alessandro Saracco**, ho **27 anni** e vivo a **Torino**
+My name is Alessandro Saracco, and I am 29 years old.
 
-- Ho completato il mio percorso di studi triennale presso la facoltà di informatica dell'**Università degli Studi di Torino** e proseguito nella medesima, con la specializzazione in **Intelligenza Artificiale** 
+▸ I completed my Bachelor’s degree in *Computer Science* at the University of Turin, where I also specialized in *Artificial Intelligence*.
 
-- Nel frattempo, lavoro a tempo pieno come **sistemista** e **consulente informatico** presso **PIC - Servizi per l'informatica**, per **Intesa Sanpaolo**.
+▸ I am currently working full-time as a *PhD Researcher* at the University of Pisa, Department of Computer Science, with research activities carried out at Università Cattolica del Sacro Cuore – CERiTOM in Milan, Italy.
 
 <br/>
 
