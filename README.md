@@ -12,7 +12,7 @@ My name is Alessandro Saracco, and I am 29 years old.
 
 - 📧: alessandro.saracco@yahoo.it
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrosaraccoitconsultant/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrosaracco/) 
 
 <br/>
 
