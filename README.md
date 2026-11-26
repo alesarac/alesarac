@@ -1,4 +1,4 @@
-PhD candidate in **Artificial Intelligence** (National PhD in AI for Society, University of Pisa), based at **Università Cattolica del Sacro Cuore – CERITOM** in Milan, Italy.
+PhD candidate in **Artificial Intelligence** (National PhD in AI for Society, University of Pisa), based at **Università Cattolica del Sacro Cuore – CeriToM** in Milan, Italy.
 
 I research **Human-Robot Interaction** and **Affective Computing**: trust, empathy and emotions toward social robots, studied with psychophysiological measures (EMG) and computational models. Before the PhD I spent six years in IT infrastructure and software development.
 
